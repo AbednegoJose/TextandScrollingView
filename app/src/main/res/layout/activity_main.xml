@@ -58,7 +58,7 @@
 
     <Switch
         android:id="@+id/round_up_switch"
-        android:layout_width="0dp"
+        android:layout_width="10dp"
         android:layout_height="wrap_content"
         android:checked="true"
         android:text="Round up tip?"
